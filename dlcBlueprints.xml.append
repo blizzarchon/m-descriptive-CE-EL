@@ -7884,7 +7884,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<weaponArt>chainlaser_ht_steel_bright</weaponArt>
 	<iconImage>laser_chain</iconImage>
 </weaponBlueprint>
-<weaponBlueprint name="LASER_CHAINGUN_MALFUNCTIONING"><!-- K, 1 less projectile -->
+<weaponBlueprint name="LASER_CHAINGUN_MALFUNCTIONING"><!-- different description for laser_chaingun is okay; only weapon that fits this description, and there are only a few weapons w/ malfunc. prefix -->
 	<!-- 1 shot 1power-->
 	<type>LASER</type>
 	<title>Mal. Chain Burst Laser</title>
