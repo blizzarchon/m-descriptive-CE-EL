@@ -6041,7 +6041,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Uncalib. Laser Charger</title>
 	<short>unc Charge II</short>
 	<tip>tip_charge</tip>
-	<desc>This laser weapon can charge multiple times, giving it additional projectiles. Its targeting sensors are a little bit off, increasing targeting area by 345%.</desc>
+	<desc>This laser weapon can charge multiple times, giving it additional projectiles. Its targeting sensors are a little bit off, giving the weapon some trouble when targeting small rooms.</desc>
 	<tooltip>Fires more shots the more it charges, up to a max of 4. Uncalibrated: targeting radius +30</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
@@ -6083,7 +6083,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Unrel. Laser Charger</title>
 	<short>unr Charge II</short>
 	<tip>tip_charge</tip>
-	<desc>This laser weapon can charge multiple times, giving it additional projectiles. Its targeting sensors are worn out, increasing target area by 522%.</desc>
+	<desc>This laser weapon can charge multiple times, giving it additional projectiles. Its targeting sensors are worn out, giving the weapon trouble when targeting small rooms.</desc>
 	<tooltip>Fires more shots the more it charges, up to a max of 4. Unreliable: targeting radius +45</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
@@ -6125,7 +6125,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Wild Laser Charger</title>
 	<short>Wi Charge II</short>
 	<tip>tip_charge</tip>
-	<desc>This laser weapon can charge multiple times, giving it additional projectiles. The targeting sensors broke while increasing charge damage output, resulting in a 900% target area increase.</desc>
+	<desc>This laser weapon can charge multiple times, giving it additional projectiles. The targeting sensors broke while increasing damage output, making the weapon incredibly hard to aim.</desc>
 	<tooltip>Fires more shots the more it charges, up to a max of 4. Wild: damage +1; targeting radius +70</tooltip>
 	<damage>2</damage>
 	<shots>1</shots>
@@ -8915,7 +8915,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Uncalib. Ion Stunner</title>
 	<short>unc Ion Stunner</short>
 	<locked>1</locked>
-	<desc>Ion weapons can disable systems without causing hull damage. This ion weapon stuns crew inside the room for 5 seconds. Its targeting sensors are a little bit off, increasing targeting area by 345%.</desc>
+	<desc>Ion weapons can disable systems without causing hull damage. This ion weapon stuns crew inside the room for 5 seconds. Its targeting sensors are a little bit off, giving the weapon some trouble when targeting small rooms.</desc>
 	<tooltip>Fires a single blast that does 1 ion damage. Can hit and disable shields as well as systems. Uncalibrated: targeting radius +30</tooltip>
 	<stun>5</stun>
 	<damage>0</damage>
@@ -8962,7 +8962,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Unrel. Ion Stunner</title>
 	<short>unr Ion Stunner</short>
 	<locked>1</locked>
-	<desc>Ion weapons can disable systems without causing hull damage. This ion weapon stuns crew inside the room for 5 seconds. Its targeting sensors are worn out, increasing target area by 522%.</desc>
+	<desc>Ion weapons can disable systems without causing hull damage. This ion weapon stuns crew inside the room for 5 seconds. Its targeting sensors are worn out, giving the weapon trouble when targeting small rooms.</desc>
 	<tooltip>Fires a single blast that does 1 ion damage. Can hit and disable shields as well as systems. Unreliable: targeting radius +45</tooltip>
 	<stun>5</stun>
 	<damage>0</damage>
@@ -14127,7 +14127,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Uncalib. Ion Charger</title>
 	<short>unc Charge I.</short>
 	<tip>tip_charge</tip>
-	<desc>This ion weapon can charge multiple times, giving it additional projectiles. Its targeting sensors are a little bit off, increasing targeting area by 345%.</desc>
+	<desc>This ion weapon can charge multiple times, giving it additional projectiles. Its targeting sensors are a little bit off, giving the weapon some trouble when targeting small rooms.</desc>
 	<tooltip>Fires more shots the more it charges, up to a max of 3. Uncalibrated: targeting radius +30</tooltip>
 	<damage>0</damage>
 	<ion>1</ion>
@@ -14173,7 +14173,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Unrel. Ion Charger</title>
 	<short>unr Charge I.</short>
 	<tip>tip_charge</tip>
-	<desc>This ion weapon can charge multiple times, giving it additional projectiles. Its targeting sensors are worn out, increasing target area by 522%.</desc>
+	<desc>This ion weapon can charge multiple times, giving it additional projectiles. Its targeting sensors are worn out, giving the weapon trouble when targeting small rooms.</desc>
 	<tooltip>Fires more shots the more it charges, up to a max of 3. Unreliable: targeting radius +45</tooltip>
 	<damage>0</damage>
 	<ion>1</ion>
@@ -15261,7 +15261,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Uncalib. Laser Charger</title>
 	<short>unc Charge L</short>
 	<tip>tip_charge</tip>
-	<desc>This laser weapon can charge two times, giving it an additional projectile. Its targeting sensors are a little bit off, increasing targeting area by 345%.</desc>
+	<desc>This laser weapon can charge two times, giving it an additional projectile. Its targeting sensors are a little bit off, giving the weapon some trouble when targeting small rooms.</desc>
 	<tooltip>Fires more shots the more it charges, up to a max of 2. Uncalibrated: targeting radius +30</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
@@ -15305,7 +15305,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Unrel. Laser Charger</title>
 	<short>unr Charge L</short>
 	<tip>tip_charge</tip>
-	<desc>This laser weapon can charge two times, giving it an additional projectile. Its targeting sensors are worn out, increasing target area by 522%.</desc>
+	<desc>This laser weapon can charge two times, giving it an additional projectile. Its targeting sensors are worn out, giving the weapon trouble when targeting small rooms.</desc>
 	<tooltip>Fires more shots the more it charges, up to a max of 2. Unreliable: targeting radius +45</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
@@ -15349,7 +15349,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Wild Laser Charger</title>
 	<short>Wi Charge L</short>
 	<tip>tip_charge</tip>
-	<desc>This laser weapon can charge two times, giving it an additional projectile. Wild: damage +1; targeting radius +70</desc>
+	<desc>This laser weapon can charge two times, giving it an additional projectile. The targeting sensors broke while increasing damage output, making the weapon incredibly hard to aim.</desc>
 	<tooltip>Fires more shots the more it charges, up to a max of 2. Wild: damage +1; targeting radius +70</tooltip>
 	<damage>2</damage>
 	<shots>1</shots>
@@ -17451,7 +17451,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<short>unc Chain I.</short>
 	<locked>1</locked>
 	<tip>tip_chain_ion</tip>
-	<desc>This weapon's Ion damage increases each time it fires to a max of 4. Its targeting sensors are a little bit off, increasing targeting area by 345%.</desc>
+	<desc>This weapon's Ion damage increases each time it fires to a max of 4. Its targeting sensors are a little bit off, giving the weapon some trouble when targeting small rooms.</desc>
 	<tooltip>Fires a single blast that does 1 ion damage. Can hit and disable shields as well as systems. Uncalibrated: targeting radius +30</tooltip>
 	<damage>0</damage>
 	<ion>1</ion>
@@ -17503,7 +17503,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<short>unr Chain I.</short>
 	<locked>1</locked>
 	<tip>tip_chain_ion</tip>
-	<desc>This weapon's Ion damage increases each time it fires to a max of 4. Its targeting sensors are worn out, increasing target area by 522%.</desc>
+	<desc>This weapon's Ion damage increases each time it fires to a max of 4. Its targeting sensors are worn out, giving the weapon trouble when targeting small rooms.</desc>
 	<tooltip>Fires a single blast that does 1 ion damage. Can hit and disable shields as well as systems. Unreliable: targeting radius +45</tooltip>
 	<damage>0</damage>
 	<ion>1</ion>
@@ -19321,7 +19321,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Uncalib. Chain Vulcan</title>
 	<short>unc Vulcan</short>
 	<tip>tip_chain_laser</tip>
-	<desc>This laser weapon takes a long time to warm up. Each time it fires it decreases the cooldown, eventually able to take down any amount of shields. Its targeting sensors are a little bit off, increasing targeting area by 345%.</desc>
+	<desc>This laser weapon takes a long time to warm up. Each time it fires it decreases the cooldown, eventually able to take down any amount of shields. Its targeting sensors are a little bit off, giving the weapon some trouble when targeting small rooms.</desc>
 	<tooltip>Cooldown drops the more it fires. Uncalibrated: targeting radius +30</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
@@ -19368,7 +19368,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Unrel. Chain Vulcan</title>
 	<short>unr Vulcan</short>
 	<tip>tip_chain_laser</tip>
-	<desc>This laser weapon takes a long time to warm up. Each time it fires it decreases the cooldown, eventually able to take down any amount of shields. Its targeting sensors are worn out, increasing target area by 522%.</desc>
+	<desc>This laser weapon takes a long time to warm up. Each time it fires it decreases the cooldown, eventually able to take down any amount of shields. Its targeting sensors are worn out, giving the weapon trouble when targeting small rooms.</desc>
 	<tooltip>Cooldown drops the more it fires. Unreliable: targeting radius +45</tooltip>
 	<damage>1</damage>
 	<shots>1</shots>
@@ -19415,7 +19415,7 @@ ANAEROBIC ENEMY SHIPS  - AUTOBLUEPRINT
 	<title>Wild Chain Vulcan</title>
 	<short>Wi Vulcan</short>
 	<tip>tip_chain_laser</tip>
-	<desc>This laser weapon takes a long time to warm up. Each time it fires it decreases the cooldown, eventually able to take down any amount of shields. Wild: damage +1; targeting radius +70</desc>
+	<desc>This laser weapon takes a long time to warm up. Each time it fires it decreases the cooldown, eventually able to take down any amount of shields. The targeting sensors broke while increasing damage output, making the weapon incredibly hard to aim.</desc>
 	<tooltip>Cooldown drops the more it fires. Wild: damage +1; targeting radius +70</tooltip>
 	<damage>2</damage>
 	<shots>1</shots>
